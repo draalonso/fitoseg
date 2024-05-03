@@ -1,0 +1,13 @@
+Package: fitoseg
+Type: Package
+Title: Segmentacion de imagenes  (Imagenes de hojas vegetales)
+Version: 1.0
+Author: Alonso Barrera Berenice y Lara Viveros Francisco Marcelo
+Maintainer: Alonso Barrera Berenice <alonsobb1@hotmail.com>
+Description: Este paquete proporciona herramientas para segmentar imágenes 
+    de hojas vegetales, dicha segmentación se basa en el uso de diversos 
+    índices vegetales.  
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
